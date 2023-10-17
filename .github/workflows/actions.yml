@@ -11,7 +11,7 @@ on:
     branches: ["main"]
 
 jobs:
-  compilação-e-testes:
+  compilacao-e-testes:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
